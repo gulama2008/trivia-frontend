@@ -1,7 +1,7 @@
 # Trivia
 
 This is an application that allow users to play trivia and display a score at the end of each game. The application consists of a spring RESTful API and a React Typescript frontend. 
-
+### 🚀 [Launch Live App](https://trivia-app-siyu.netlify.app/)
 ## Table of Contents
 
 - [Snippets](#snippets)
